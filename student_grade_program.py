@@ -1,9 +1,5 @@
 # Josh Fancher
-# Final Project
-# Question 3
-# CS5001, Fall 2022
 # File name: student_grade_program.py
-# 12/13/2022
 
 
 # Design, write in python, test and document (at least) two classes - as student class
